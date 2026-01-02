@@ -1,5 +1,5 @@
 # ServiceNowTicketManagement-Lab
-In this lab, I will simulate receiving, assigning, updating, and resolving tickets in ServiceNow.
+In this lab, You will simulate receiving, assigning, updating, and resolving tickets in ServiceNow.
 ServiceNow Incident Management Lab
 This lab will guide you through the basic steps of creating, managing, and closing an incident in ServiceNow. Follow the steps below to complete the lab in your ServiceNow Developer instance.
 1. Set Up Your ServiceNow Developer Instance
