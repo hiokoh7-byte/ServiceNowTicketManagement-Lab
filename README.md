@@ -3,8 +3,8 @@ In this lab, You will simulate receiving, assigning, updating, and resolving tic
 ServiceNow Incident Management Lab
 This lab will guide you through the basic steps of creating, managing, and closing an incident in ServiceNow. Follow the steps below to complete the lab in your ServiceNow Developer instance.
 1. Set Up Your ServiceNow Developer Instance
-Visit ServiceNow Developer Site. (Sign up for a free developer account if you don’t have one.)
-Once logged in, request a Personal Developer Instance. This is a free sandbox environment for you to use.
+Visit ServiceNow Developer Site. (Sign up for a free developer account if you don’t have one.) If you have one already, go to manage instance and click the link to access it.
+Once logged in, request a Personal Developer Instance. (If you have one already, go to manage instance and click the link to access it.) This is a free sandbox environment for you to use.
 2. Create a New Incident
 In your ServiceNow instance, go to Incident > Create New.
 Complete the form with the following details:
@@ -13,7 +13,7 @@ Short Description: Type "User unable to access email."
 Set it to High or Medium Priority level.
 Click Save to create the incident.
 3. Simulate Assignment
-Open the incident you just created.
+Open the incident you just created. (Don't forget to change view to Default so you can see everything you need to do below)
 Assign it to yourself or a team (e.g., "IT Support").
 In the Work Notes section, add the message:
 "Assigned to IT Support for troubleshooting."
