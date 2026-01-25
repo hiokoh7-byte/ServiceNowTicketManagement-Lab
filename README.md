@@ -1,4 +1,4 @@
-# ServiceNowTicketManagement-Lab (https://www.loom.com/share/6f5bc3b9c4e84054bd671fb5377e3a67)
+# ServiceNowTicketManagement-Lab (https://www.loom.com/share/8e3d66d8db0842839b5a51f2a73c4ce6)
 In this lab, You will simulate receiving, assigning, updating, and resolving tickets in ServiceNow.
 ServiceNow Incident Management Lab
 This lab will guide you through the basic steps of creating, managing, and closing an incident in ServiceNow. Follow the steps below to complete the lab in your ServiceNow Developer instance.
